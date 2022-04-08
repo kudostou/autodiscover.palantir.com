@@ -1,0 +1,1 @@
+# autodiscover.palantir.com
